@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\version-control\ABND\Pokemon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="96feac44242d9eacb9c2d470dfcdfbd69ec41056">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c4629501605b16da5d4aecd12b549527eec3e004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\5ab36d72d43eeb76ff5730274c9b990dab1a1821\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80b2928d1ff3edce67cd59230f6096988ed2fc4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\version-control\ABND\Pokemon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9f73f79331aeac3376bff05134ca556abecf2dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\389066fef41e446049ce232790b57ae2b6df559f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59f0d52f4174bdab4f8b44307d66ab13f17a1924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\59f2b980969cc23df1f090d0fb1452fe00c1ff50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50120289d5ad1d2255e52f7ac56f54206975f76b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\75da6430fcdd9d31217dce4e5cb699e321e7b1c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba6f6a2e5ec2124d0c41a5a90627d1f95d2c4ea5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\01a3106222402c1b2b8f60af7b11578196e75ee8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f6bf680b1e36d2248d9b51932f170a5899c50d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_cc88aa1376c2cd3ab3204833e5d01b5d4fff6527\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_bd0605ff5fc91b098e3561d9c001fe6b17077d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\7bb6888f26552650c47a55a24b079edad87d43eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d7521c235a4d581a3a9163a1c338c72b275efab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\c0373f24fb1835efea3b767a289adcd92e225781\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47527dec3b195a530dd3c441d189566f1d14d791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\4b63fdad867892f6d9492d00586b7bac53c03e1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96133344835608536d8758aa3a8912ac89f6f3d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\b90fae1d5771a5ad4bf3df5b6c4d3b51dfddd973\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75e0c00f338e1eaef61de91217773e8c0976352b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ccojo\.android\build-cache\500620517f81288dcf77d63fd1a1fe8a68c21f2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\version-control\ABND\Pokemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1219bd8e9be0efef11947b79d720c2fce33fae06\classes.dex" />
+    </item>
+
+</items>
